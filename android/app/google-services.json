@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579309950709",
+    "project_id": "instafood-d7aba",
+    "storage_bucket": "instafood-d7aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579309950709:android:bffdaa5acbb6a73e2257bc",
+        "android_client_info": {
+          "package_name": "com.example.instafood_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579309950709-trmvotkoaafombh1rdk842pcja9vthu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDL_ZDhlWMYJYVJ2wk3dO1mpdTAObE7OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579309950709-trmvotkoaafombh1rdk842pcja9vthu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

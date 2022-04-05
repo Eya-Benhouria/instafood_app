@@ -1,0 +1,10 @@
+export 'main_page.dart';
+export 'intro.dart';
+export 'openning/home/get_started.dart';
+export 'base.dart';
+export 'auth/connexion.dart';
+export 'auth/createCompte.dart';
+export 'auth/reset.dart';
+export 'auth/signout.dart';
+export 'auth/signwithfacebook.dart';
+export 'auth/model/user_model.dart';
