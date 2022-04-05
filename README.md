@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # instafood_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# instafood_app
+>>>>>>> 9d268984f16cd1a9a0105de955884e3d0c8bd6cb
